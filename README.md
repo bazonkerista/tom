@@ -1,6 +1,6 @@
 # The Other Monitor
 
-What was just something that I wanted to have on the other monitor turned into this.
+What was just something that I wanted to have on the other monitor while I play Star Citizen turned into this.
 
 It's a single html file, no libs, can load custom mappings, save settings, search through key bindings, and a few more things.
 
