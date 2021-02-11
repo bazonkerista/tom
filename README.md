@@ -1,4 +1,4 @@
-# The Other Monitor For Star Citizen
+# The Other Monitor For StarCitizen
 
 What was just something that I wanted to have on the other monitor while I play Star Citizen turned into this.
 
