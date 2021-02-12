@@ -4,7 +4,9 @@ What was just something that I wanted to have on the other monitor while I play 
 
 This is a dynamic Keyboard and Joystick Binding Viewer to reference on the other monitor or print.
 
-It's a single html file, no libs, it can:
+It's a single html file, download tom.html and open it.
+
+Some features
 - Load custom mappings
 - Load new versions of the game default bindings
 - Set to light them for printing
