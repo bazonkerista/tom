@@ -11,7 +11,7 @@ It's a single html file, download tom.html and open it.
 Some features
 - Load custom mappings
 - Load new versions of the game default bindings
-- Set to light them for printing
+- Set to light theme for printing
 - Change Colors
 - Change the text of some items, by default they're sometimes too long
 - Search through all (over 600) actions
