@@ -57,6 +57,8 @@ With over 600 actions in the game, I wanted something to refer to on the other m
 Please also see the great SCJMapper.
 This is just for fun.  But if you'd like to donate, you can send bitcoin to 1GmNMaRpAP11cPtK6zzSYiEdaNxGC2prcL or send a thank-you note, or a dad joke that I can share with my kids to bazonkerista@gmail.com
 
+Starcitizen referral code: STAR-DPBL-DNCW
+
 What I'd like to add...
 - Picture adding/(some)editing for all those joysticks  (already in progress)
 - Proper window management instead of hope for the best.
