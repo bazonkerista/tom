@@ -2,15 +2,26 @@
 
 What was just something that I wanted to have on the other monitor while I play Star Citizen turned into this.
 
-It's a single html file, no libs, can load custom mappings, save settings, search through key bindings, and a few more things.
+This is a dynamic Keyboard and Joystick Binding Viewer to reference on the other monitor or print.
+
+It's a single html file, no libs, it can:
+- Load custom mappings
+- Load new versions of the game default bindings
+- Set to light them for printing
+- Change Colors
+- Change the text of some items, by default they're sometimes too long
+- Search through all (over 600) actions
+- Edit button layouts, add joysticks, remove keyboard etc...
+- F1-F8 Keys to quickly jump from one group of actions to another (also configurable)
+- Save settings.
 
 Here is the content of the help.
-
 - l Quick Load custom mappings from the game
 - f Actions with Search
 - a ActionMap Groups
 - c Load Page Config Settings
 - F1 to F8 to select Game Mode on the top.
+- F9 Save.
 - F10 Menu or right click.
 - CTRL+F1 help
 - Double Click On A Key Actions List Filtered for that key
