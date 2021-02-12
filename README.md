@@ -2,6 +2,8 @@
 
 What was just something that I wanted to have on the other monitor while I play Star Citizen turned into this.
 
+Yet another binding layout reference among a list of already great ones.
+
 This is a dynamic Keyboard and Joystick Binding Viewer to reference on the other monitor or print.
 
 It's a single html file, download tom.html and open it.
@@ -54,3 +56,10 @@ Why
 With over 600 actions in the game, I wanted something to refer to on the other monitor.
 Please also see the great SCJMapper.
 This is just for fun.  But if you'd like to donate, you can send bitcoin to 1GmNMaRpAP11cPtK6zzSYiEdaNxGC2prcL or send a thank-you note, or a dad joke that I can share with my kids to bazonkerista@gmail.com
+
+What I'd like to add...
+- Picture adding/(some)editing for all those joysticks  (already in progress)
+- Proper window management instead of hope for the best.
+- Import/Export input configs
+- Somewhere to host so that all configs can be shared and latest default layouts can be had automatically.
+- If there was a hosting location, I would like to share all that with the other great mapping tools that already exist.
