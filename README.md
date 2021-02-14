@@ -2,6 +2,10 @@
 
 What was just something that I wanted to have on the other monitor while I play Star Citizen turned into this.
 
+Note that this currently only works on Chrome.
+
+If your monitor is not 2560x1440 then use CTRL+Scroll to resize so that it fits to taste.
+
 Yet another binding layout reference among a list of already great ones.
 
 This is a dynamic Keyboard and Joystick Binding Viewer to reference on the other monitor or print.
