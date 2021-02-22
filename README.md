@@ -1,5 +1,7 @@
 # The Other Monitor For StarCitizen
 
+Remember at start to CTRL+Scroll to do a browser zoom to the proper siza of your monitor.
+
 What was just something that I wanted to have on the other monitor while I play Star Citizen turned into this.
 
 Note that this currently only works on Chrome.
@@ -64,7 +66,7 @@ This is just for fun.  But if you'd like to donate, you can send bitcoin to 1Gm
 Starcitizen referral code: STAR-DPBL-DNCW
 
 What I'd like to add...
-- Picture adding/(some)editing for all those joysticks  (already in progress)
+- Picture (some) editing 
 - Proper window management instead of hope for the best.
 - Import/Export input configs
 - Somewhere to host so that all configs can be shared and latest default layouts can be had automatically.
